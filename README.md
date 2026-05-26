@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science student from South Africa passionate about:
+I'm a Computer Science student passionate about:
 
 - Software Development
 - Web Development
