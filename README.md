@@ -1,4 +1,4 @@
-# Hi, I'm Reitumetse Mafojane 👋
+# Hi, I'm Tumi Mafojane 👋
 
 ## About Me
 
